@@ -1,1 +1,0 @@
-from .easygoogletranslate import *
