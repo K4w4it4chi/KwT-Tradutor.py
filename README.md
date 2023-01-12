@@ -1,6 +1,19 @@
 # KwT-Tradutor.py
 *EM DEV* Este é um tradutor em python com o plugin Easy google translate, basicamente eu fiz para eu estudar e traduzir com meus pdfs e ebooks ^^,
 
+---,---,---,---,---,---,---,---,---,---,---,---,---,-------,
+| ~ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | [ | ] | <-    |
+|---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|
+| ->| | " | , | . | P | Y | F | G | C | R | L | / | = |  \  |
+|-----',--',--',--',--',--',--',--',--',--',--',--',--'-----|
+| Caps | A | O | E | U | I | D | H | T | N | S | - |  Enter |
+|------'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'--------|
+|        | ; | Q | J | K | X | B | M | W | V | Z |          |
+|------,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
+| ctrl |  | alt |                          | alt  |  | ctrl |
+'------'  '-----'--------------------------'------'  '------'
+
+
  API não oficial do Google Tradutor.
  Esta biblioteca não precisa de uma chave de api ou outra coisa para usar, é gratuita e simples.
  Você pode usar uma cadeia de caracteres ou um arquivo para traduzir, mas o texto deve ser igual ou inferior a 5000 caracteres.
@@ -35,18 +48,7 @@
  tradutor = GoogleTranslateRequest()
  resultado = translator.translate_file(file_path='text.txt', target_language=['tr', 'fr', 'de'])
  impressão(resultado)
-
----,---,---,---,---,---,---,---,---,---,---,---,---,-------,
-| ~ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | [ | ] | <-    |
-|---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|
-| ->| | " | , | . | P | Y | F | G | C | R | L | / | = |  \  |
-|-----',--',--',--',--',--',--',--',--',--',--',--',--'-----|
-| Caps | A | O | E | U | I | D | H | T | N | S | - |  Enter |
-|------'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'--------|
-|        | ; | Q | J | K | X | B | M | W | V | Z |          |
-|------,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
-| ctrl |  | alt |                          | alt  |  | ctrl |
-'------'  '-----'--------------------------'------'  '------'
-
+ 
+ Obrigado pela atenção ! <3
 
 ![image](https://user-images.githubusercontent.com/122295876/212154879-8ac7592a-f768-4a8b-abe5-56a96600aece.png)
