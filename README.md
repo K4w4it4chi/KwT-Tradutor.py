@@ -1,8 +1,7 @@
 
 
 
-# KwT![07008a0341d125fcccd77ad7a77acbfd](https://user-images.githubusercontent.com/122295876/212157597-3e33a387-26b2-4e9a-bfe3-656300437d7c.gif)
--Tradutor.py
+# KwT!-Tradutor.py
 *EM DEV* Este é um tradutor em python com o plugin Easy google translate, basicamente eu fiz para eu estudar e traduzir com meus pdfs e ebooks ^^,
 
 '------'  '-----'--------------------------'------'  '------'
@@ -43,5 +42,4 @@
  impressão(resultado)
  
  Obrigado pela atenção ! <3
-
-![image](https://user-images.githubusercontent.com/122295876/212154879-8ac7592a-f768-4a8b-abe5-56a96600aece.png)
+ [07008a0341d125fcccd77ad7a77acbfd](https://user-images.githubusercontent.com/122295876/212157597-3e33a387-26b2-4e9a-bfe3-656300437d7c.gif)
