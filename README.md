@@ -1,5 +1,3 @@
-# KwT-Tradutor.py
-*EM DEV* Este é um tradutor em python com o plugin Easy google translate, basicamente eu fiz para eu estudar e traduzir com meus pdfs e ebooks ^^,
 
 ---,---,---,---,---,---,---,---,---,---,---,---,---,-------,
 | ~ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | [ | ] | <-    |
@@ -13,6 +11,10 @@
 | ctrl |  | alt |                          | alt  |  | ctrl |
 '------'  '-----'--------------------------'------'  '------'
 
+# KwT-Tradutor.py
+*EM DEV* Este é um tradutor em python com o plugin Easy google translate, basicamente eu fiz para eu estudar e traduzir com meus pdfs e ebooks ^^,
+
+'------'  '-----'--------------------------'------'  '------'
 
  API não oficial do Google Tradutor.
  Esta biblioteca não precisa de uma chave de api ou outra coisa para usar, é gratuita e simples.
