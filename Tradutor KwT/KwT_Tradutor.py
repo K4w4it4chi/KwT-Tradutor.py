@@ -36,7 +36,7 @@ class EasyGoogleTranslate:
         if not timeout:
             timeout = self.timeout
         if len(text) > 5000:
-            print('\nError: Isso pode detectar 5000 characters at once. (%d characters found.)'%(lean(text)))
+            print('\nError: Isso pode detectar 5000 em cima disso . (%d characters found.)'%(lean(text)))
             exit(0)
         if type(target_language) is list:
             with concurrent.futures.ThreadPoolExecutor() as executor:
