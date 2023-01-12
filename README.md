@@ -42,4 +42,7 @@
  impressão(resultado)
  
  Obrigado pela atenção ! <3
- [07008a0341d125fcccd77ad7a77acbfd](https://user-images.githubusercontent.com/122295876/212157597-3e33a387-26b2-4e9a-bfe3-656300437d7c.gif)
+
+
+
+![07008a0341d125fcccd77ad7a77acbfd](https://user-images.githubusercontent.com/122295876/212157897-75a531fa-148d-438a-a98a-8652ccf1cacb.gif)
